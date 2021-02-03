@@ -8,11 +8,10 @@ que você desejar e deverá renderizar uma lista dessas informações na tela.
 - Uso Typescript (na criação do projeto, use um template em TS);
 - Utilizar Hooks;
 
-##### Requisitos desejáveis (faz vai, vai ser um plus!)
+##### Requisitos desejáveis (Porém importantes)
 - Uso de componentes funcionais;
 - A aplicação poderá ter um loading inicial, como um splash screen;
 - Uso de `Redux` para gerenciamento do estado da aplicação;
-- Uso de componentes funcionais; 
 - Estilização dos componentes com `styled-components`;
 
 ## Avaliação
@@ -20,7 +19,7 @@ A proposta deste desafio é para avaliar seu conhecimento em `reactJS` na criaç
 
 - Conclua o desafio da melhor forma possível, de acordo com suas habilidades.
 - Ao concluir, faça um `Pull Request` para branch *master*, assim saberemos que
-você terminou o desafio e já podemos iniciara a análise. Após o Pull Request
+você terminou o desafio e já podemos iniciar a análise. Após o Pull Request
 entraremos em contato com você para lhe dar um feedback possitivo ou negativo.
 
 ### Dicas
@@ -29,10 +28,9 @@ entraremos em contato com você para lhe dar um feedback possitivo ou negativo.
  Seria ótimo poder executar a solução do desafio com apenas *um** comando (ou com o menor trabalho possível); =)
 * Para o frontend utilize ReactJS e qualquer lib que desejar, mas lembre-se que, muitas vezes, "menos é mais";
 * Sinta-se a vontade para definir o layout do aplicativo;
-* Fazer perguntas é bom. Não vamos te penalizar por perguntar;
 * Estamos procurando por sinais do seu entendimento de alguns conceitos como eventos, promises, ciclos de vida e como você aplica e implementa isto com a linguagem utilizada;
 * Uso do git será bem valorizado;
 * Seu código será avaliado por: semântica, estrutura, legibilidade, tamanho, elegância (entre outros fatores);
 
 
-Boa sorte, esperamos que se saia bem. :grinning: :thumbsup:
+Boa sorte, esperamos que se saiam bem. :grinning: :thumbsup:
