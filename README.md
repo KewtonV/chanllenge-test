@@ -26,7 +26,7 @@ entraremos em contato com você para lhe dar um feedback possitivo ou negativo.
 
 * Escreva um bom README com informações que auxiliem quem for ler o código (ex: como startar o projeto e como buildar);
  Seria ótimo poder executar a solução do desafio com apenas *um** comando (ou com o menor trabalho possível); =)
-* Para o frontend utilize ReactJS e qualquer lib que desejar, mas lembre-se que, muitas vezes, "menos é mais";
+* Utilize ReactJS e qualquer lib que desejar, mas lembre-se que, muitas vezes, "menos é mais";
 * Sinta-se a vontade para definir o layout do aplicativo;
 * Estamos procurando por sinais do seu entendimento de alguns conceitos como eventos, promises, ciclos de vida e como você aplica e implementa isto com a linguagem utilizada;
 * Uso do git será bem valorizado;
