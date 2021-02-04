@@ -1,4 +1,4 @@
-![](https://app-qrcode-aquivo-importacao-modelo.s3.amazonaws.com/chanllengeLayoutGithub.png)
+![](https://app-qrcode-aquivo-importacao-modelo.s3.amazonaws.com/chanllengeLayoutGithubJustReact.png)
 
 ## Desafio
 Criar uma tela com Header, Body e Rodapé. No Body terá um CRUD com o tema e assunto
